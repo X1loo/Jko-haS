@@ -1,0 +1,8 @@
+Origin: JKO.Xloo
+Label: JKO.Xloo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: JKO.X1loo - a cydia repo
